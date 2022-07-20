@@ -1,7 +1,8 @@
-# CAPSTONE PROJECT AIRLINE DELAY
-----
-
-  #NG30DaysOfLearning Capstone Project
+#  AIRLINE DELAY ANALYSIS
+-----
+ #  Capstone Project  
+ #NG30DaysOfLearning 
+  
  ---- 
   ![image](https://user-images.githubusercontent.com/107538510/179908591-034eec69-a96d-44eb-aeda-f7d2b77a8ea7.png)
 ----
