@@ -4,7 +4,9 @@
  #NG30DaysOfLearning 
   
  ---- 
-  ![image](https://user-images.githubusercontent.com/107538510/179908591-034eec69-a96d-44eb-aeda-f7d2b77a8ea7.png)
+  
+![image](https://user-images.githubusercontent.com/107538510/180196224-2a41603a-8fe6-4ea3-a1ac-6de9911cc21d.png)
+
 ----
  # OBJECTIVE
  This project is for the learning track of #NG30DaysOfLearning, **Airline Delay storytelling**. The dataset contain 539383 Ids having the number for flights from the different airports. The purpose of the project is to find the reason of the delayed flights and tells the meaningful story to better the flights for the future experience.  It covers the following topics in the story:
@@ -17,7 +19,8 @@
  - Q: Recommendations to avoid the delay.
  
  
- ![image](https://user-images.githubusercontent.com/107538510/179811746-e5c15ab1-1e2c-4f41-8037-ac3000e4254c.png)
+![image](https://user-images.githubusercontent.com/107538510/180195895-010433f1-8c43-4d17-9499-1dc2b8b17eca.png)
+
 
 -----
 # DATA SOURCING 
@@ -36,7 +39,7 @@ The data **Airlines Dataset to predict a delay** is origially sourced from the k
 
 The date format is changed in Excel to extract the months, day, and year column from the dataset. Also converted the whole dataset into tables for easy access to different functions. Normalized the data nto different categories for easy access to the delay, date, and flights data of the actual dataset.
 
-![image](https://user-images.githubusercontent.com/107538510/178102971-83dc5df8-b854-4107-8496-916ea3c81a74.png)
+![excel](https://user-images.githubusercontent.com/107538510/180195628-b1e34a7d-9411-4ac7-bb70-f560b2b49e78.PNG)
 
 # POWER BI Data Visualization
 
@@ -51,8 +54,9 @@ Cover Page has the main title of the project and the buttons which leads directl
 - **FLIGHT ANALYSIS** shows the ratio index of the delayed and the flights on time. The delayed flights are less in number as its the **30.82%** of the total flights taken by the Airlines. 
 - If we take a look on the DayOfWeek part, it clearly shows the maximum delayed flights on **WEDNESDAY** as comapred to the weekend days. To reduce the delay rate its better for the passengers to book the weekend fligfhts as they have the lowest delay rate. Morning flights also reduce the delay rate, as the weather highly impacts on the departure and the arrival of the flights. 
  
+![image](https://user-images.githubusercontent.com/107538510/180195983-81837003-5df3-42b9-8f39-b25d9071a4b6.png)
 
-![image](https://user-images.githubusercontent.com/107538510/179813212-0b2d8be7-f839-4350-a324-e014c890f4cd.png)
+
 
 # DELAY ANALYSIS
 Delay Analysis gives the better detailed look on the reasons behind the delay of Airlines. 
@@ -63,13 +67,16 @@ Delay Analysis gives the better detailed look on the reasons behind the delay of
       -  Flights should have to fly early to reach their destination on time. 
       -  Continous delay in flights leads to the passenger **dissatisfaction**, Which is th biggest loss of any Organization. 
       -  Flights should scheduled on **Weekends** to avoid the delay rate.
-![image](https://user-images.githubusercontent.com/107538510/179813297-731db179-6c49-49e2-a7f4-ab353ce34166.png)
+
+![image](https://user-images.githubusercontent.com/107538510/180196043-5a6ad5fb-d50d-42c9-835c-e6d8af26e1bb.png)
+
 
 # DASHBOARD
 This will help you track identified pattern with delayed flights as it display all the details of the above report to state all the possible reasons of the Airlines Delay. 
 
 
-![image](https://user-images.githubusercontent.com/107538510/179909449-3d30e406-fd20-4aed-b1dc-2258bfe3d1e8.png)
+![image](https://user-images.githubusercontent.com/107538510/180196198-ba415c49-87be-4157-bbaa-01da0ff81e35.png)
+
 
 ------
 *AYESHA ZAINAB*
